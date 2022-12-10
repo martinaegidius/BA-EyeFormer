@@ -8,5 +8,5 @@ Repos which functionally can be cloned are located on my user.
   <li> EyeFormer: EyeFormer_ViT_t </li>
 </ol>
 
-![alt text](https://github.com/martinaegidius/BA-EyeFormer/GT_model_schematic.pdf?raw=true "Geometric Transformer model pipeline")
+![alt text](https://github.com/martinaegidius/BA-EyeFormer/fullModel.pdf?raw=true "Geometric Transformer model pipeline")
 ![alt text](https://github.com/martinaegidius/BA-EyeFormer/EFF_model_schematic.pdf?raw=true "EyeFormer model pipeline")
